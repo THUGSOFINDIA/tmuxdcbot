@@ -1,5 +1,5 @@
 module.exports = {
-	token: "TOKEN_KEY",
-	youtubeAPI: "YOUTUBE_API_KEY",
-	owner_id: "OWNER_ID"
+	token: "NzI0NjQ1MjcxNzgyMjkzNTQ1.XwL1Rw.3EtULjgth1w_0JGUPuGt5SPYYxQ",
+	youtubeAPI: "AIzaSyCNNe8aF7SEtPKeF-atJa-twxDtfOphEJI",
+	owner_id: "690241313873985540"
 }
